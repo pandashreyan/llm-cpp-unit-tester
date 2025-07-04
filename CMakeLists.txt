@@ -19,3 +19,4 @@ target_link_libraries(run_tests gtest gtest_main)
 
 # Register tests
 add_test(NAME AllTests COMMAND run_tests)
+
