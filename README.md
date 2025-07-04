@@ -31,6 +31,7 @@ This tool supports Ollama with Llama 3 for local test generation:
 1. Install Ollama:
 ```bash
 curl -fsSL https://ollama.com/install.sh | sh
+```
 
 ### Installation
 ```bash
