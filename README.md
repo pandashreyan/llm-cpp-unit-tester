@@ -24,6 +24,14 @@ This innovative tool leverages Large Language Models to:
 - Google Test
 - LLM API access (e.g., OpenAI)
 
+## 🤖 AI Integration
+This tool supports Ollama with Llama 3 for local test generation:
+
+### Using Ollama + Llama 3
+1. Install Ollama:
+```bash
+curl -fsSL https://ollama.com/install.sh | sh
+
 ### Installation
 ```bash
 git clone https://github.com/your-repo/llm-cpp-tester.git
