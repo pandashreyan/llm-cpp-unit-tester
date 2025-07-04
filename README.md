@@ -43,9 +43,6 @@ cmake .. && make
 ./run_tests
 ```
 ## 📊 Current Stats
-Metric Value Tests Passing 168/168 ✅ Functions.cpp Coverage 81.82% Test Coverage 100%
-
-## ✅ Test & Coverage Summary
 
 | 🧩 **Metric**              | 🔢 **Value**   |
 |---------------------------|----------------|
