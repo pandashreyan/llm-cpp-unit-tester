@@ -10,11 +10,11 @@ This innovative tool leverages Large Language Models to:
 - 📊 Achieve high code coverage with minimal effort
 
 ## 🛠️ Key Features
--✅ **Smart Code Analysis** - Understands your code structure deeply
--✅ **AI-Powered Generation** - Creates human-like test cases
--✅ **Iterative Refinement** - Improves tests based on execution feedback
--✅ **Seamless Integration** - Works with CMake and Google Test
--✅ **Coverage Tracking** - Visualizes test coverage metrics
+- ✅ **Smart Code Analysis** - Understands your code structure deeply
+- ✅ **AI-Powered Generation** - Creates human-like test cases
+- ✅ **Iterative Refinement** - Improves tests based on execution feedback
+- ✅ **Seamless Integration** - Works with CMake and Google Test
+- ✅ **Coverage Tracking** - Visualizes test coverage metrics
 
 ## 🚀 Getting Started
 ### Prerequisites
