@@ -28,7 +28,7 @@ This innovative tool leverages Large Language Models to:
 This tool supports Ollama with Llama 3 for local test generation:
 
 ### Using Ollama + Llama 3
-1. Install Ollama:
+### Install Ollama:
 ```bash
 curl -fsSL https://ollama.com/install.sh | sh
 ```
