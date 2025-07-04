@@ -83,8 +83,9 @@ This tool automates the generation and refinement of unit tests for C++ code usi
 3. Build and run the tests, collecting feedback (build errors, test failures, coverage).
 4. Refine tests based on feedback.
 5. Repeat until tests pass and coverage is satisfactory.
-## Architecture Overview
 ```
+## Architecture Overview
+
 ### Components:
 ```
 1. Code Analyzer : Parses C++ source code to extract functions, classes, and dependencies.
