@@ -1,7 +1,4 @@
 # 🚀 LLM-powered C++ Unit Test Generator
-## 🎥 Demo
-![Unit Test Generation Demo](demo.gif)
-
 ✨ **Automatically generate high-quality unit tests for your C++ projects using AI** ✨
 
 ## 🔍 Project Overview
