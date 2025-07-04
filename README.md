@@ -46,13 +46,14 @@ cmake .. && make
 Metric Value Tests Passing 168/168 ✅ Functions.cpp Coverage 81.82% Test Coverage 100%
 ## ✅ Test & Coverage Summary
 
-   Metric                      Value           
-------------------------   --------------   
- ✅ Tests Passing            168 / 168     
- 📄 Functions.cpp Coverage   81.82%       
- 🧪 Test Coverage            100%         
- 
+| 🧩 **Metric**              | 🔢 **Value**   |
+|----------------------------------------------|
+| ✅ Tests Passing           | 168 / 168      |
+| 📄 Functions.cpp Coverage  | 81.82%         |
+| 🧪 Total Test Coverage     | 100%           |
 
+---    
+ 
 ## 🤝 Contributing
 We welcome contributions! Please see our Contribution Guidelines .
 
