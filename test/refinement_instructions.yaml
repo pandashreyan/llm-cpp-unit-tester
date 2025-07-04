@@ -1,0 +1,6 @@
+prompt: "Refine the generated tests: remove duplicates, add missing includes, and improve coverage."
+requirements:
+  - No duplicate tests
+  - All tests must compile and run
+  - Add edge case tests
+strict: true

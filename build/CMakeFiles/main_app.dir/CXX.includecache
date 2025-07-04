@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/KIIT/OneDrive/Desktop/ai/src/functions.cpp
+functions.hpp
+/mnt/c/Users/KIIT/OneDrive/Desktop/ai/src/functions.hpp
+string
+-
+iostream
+-
+
+/mnt/c/Users/KIIT/OneDrive/Desktop/ai/src/functions.hpp
+string
+-
+
+/mnt/c/Users/KIIT/OneDrive/Desktop/ai/src/main.cpp
+functions.hpp
+/mnt/c/Users/KIIT/OneDrive/Desktop/ai/src/functions.hpp
+iostream
+-
+

@@ -1,0 +1,1 @@
+/usr/bin/c++   --coverage   CMakeFiles/main_app.dir/src/main.cpp.o CMakeFiles/main_app.dir/src/functions.cpp.o  -o main_app 

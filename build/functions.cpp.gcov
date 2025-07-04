@@ -1,0 +1,28 @@
+        -:    0:Source:/mnt/c/Users/KIIT/OneDrive/Desktop/ai/src/functions.cpp
+        -:    0:Graph:CMakeFiles/run_tests.dir/src/functions.cpp.gcno
+        -:    0:Data:CMakeFiles/run_tests.dir/src/functions.cpp.gcda
+        -:    0:Runs:1
+        -:    1:#include "functions.hpp"
+        -:    2:#include <string>
+        -:    3:#include <iostream>
+        -:    4:
+        3:    5:int add(int a, int b) {
+        3:    6:    return a + b;
+        -:    7:}
+        -:    8:
+        4:    9:bool is_even(int n) {
+        4:   10:    return n % 2 == 0;
+        -:   11:}
+        -:   12:
+        1:   13:std::string ExampleFunction() {
+        1:   14:    return "Hello, AI!";
+        -:   15:}
+        -:   16:
+        -:   17:// Add these implementations
+    #####:   18:void barFunction() {
+        -:   19:    // Implementation
+    #####:   20:}
+        -:   21:
+      165:   22:void bazFunction() {
+      165:   23:    std::cout << "Expected output\n";
+      165:   24:}

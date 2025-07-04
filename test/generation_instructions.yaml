@@ -1,0 +1,7 @@
+prompt: "Generate unit tests for the provided C++ code."
+requirements:
+  - Use Google Test
+  - Cover all public functions
+  - Avoid duplicate tests
+  - Include necessary headers
+strict: true
