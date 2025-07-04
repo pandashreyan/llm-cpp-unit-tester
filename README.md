@@ -18,12 +18,13 @@ This innovative tool leverages Large Language Models to:
 
 ## 🚀 Getting Started
 ### Prerequisites
+```bash
 - Python 3.x
 - CMake
 - C++ compiler
 - Google Test
 - LLM API access (e.g., OpenAI)
-
+```
 ## 🤖 AI Integration
 This tool supports Ollama with Llama 3 for local test generation:
 
